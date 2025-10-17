@@ -150,7 +150,7 @@ Perfect for servers of any size, from small private servers to large public netw
 
 ## Author
 
-Created by: **spy**
+Created by: **YourSenior**
 
 ---
 
